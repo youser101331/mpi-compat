@@ -1,0 +1,2 @@
+# mpi-compat
+Compatibility data
