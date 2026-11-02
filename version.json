@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "version": 7,
+  "version": 8,
   "keyId": 1,
-  "sha256": "e8b4eecf27a1e0c8ede90fe13c43d6da17bfb5faabe13941c6b560f18819b11a",
-  "size": 6931,
+  "sha256": "0611f520accc464182025bfb97d7d1ba8c5aab189306ad1c442d5e3bdcae09e0",
+  "size": 6928,
   "groups": 374,
   "added": 0,
   "modified": 1,
   "removed": 0,
-  "publishedAtUtc": "2026-11-02T18:53:10Z",
-  "signature": "ewE3ZNLqjfyDwRx2EBF3rRm2i/849U3PnRmSdqda/v+uvR7xTxsrgL6iLumnY2wbxoLXtQA9oQ0nWcR6GE0dGg=="
+  "publishedAtUtc": "2026-11-02T19:09:43Z",
+  "signature": "evy8wGaGla3ugxAlRfNM7A+HdtD7q4IAIty4H4oNBtRJEwKAgdMPN9S3bmKixPBb+KZA2h3qWZ9y3i37cdQD2Q=="
 }
