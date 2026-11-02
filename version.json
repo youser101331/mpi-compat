@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "version": 1,
+  "keyId": 1,
+  "sha256": "50682983f92f77614e6981cd7b0b0c6a0d0c69ef6768ef61a33d2839281f5c3a",
+  "size": 6941,
+  "groups": 375,
+  "added": 375,
+  "modified": 0,
+  "removed": 0,
+  "publishedAtUtc": "2026-11-02T05:37:49Z",
+  "signature": "ml5pVAb8XgvQIt1KQRofrpkQhF9h1A9v8rgZ76Y7bSqN6ROkLSEvZDS4x+bgC/Jvn2Nrw/chZ6VSeaLBYGuE9A=="
+}
